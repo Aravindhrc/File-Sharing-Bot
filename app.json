@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "",https://github.com/Aravindhrc/File-Sharing-Bothttps://github.com/Aravindhrc/File-Sharing-Bot
-  "logo": "https://github.com/Aravindhrc/File-Sharing-Bot",
+  "repository": "",https://github.com/jane-doe/small-sharp-tool
+  "logo": "https://small-sharp-tool.com/logo.svg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
